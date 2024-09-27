@@ -1,1 +1,1 @@
- <title>Hello World JSP</title>
+ <title>Hola Menorca</title>

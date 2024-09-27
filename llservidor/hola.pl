@@ -1,3 +1,3 @@
 BEGIN
-    DBMS_OUTPUT.PUT_LINE('Hola, Ramis!');
+    DBMS_OUTPUT.PUT_LINE('Hola, Menorca!');
 END;
