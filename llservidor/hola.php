@@ -1,1 +1,1 @@
-<?php echo '<p>Hola Menorca</p>'; ?>
+<?php echo '<p>Hola Mercadal</p>'; ?>
